@@ -1,0 +1,27 @@
+Name: Parth
+Address: 431_Hostel_IIITN
+Phone: 7056244709
+
+Order Summary:
+CheesePizza from Dominos - $9.49
+CheesePizza from Dominos - $9.49
+CheesePizza from Dominos - $9.49
+Pepperoni from PizzaHut - $10.99
+Pepperoni from PizzaHut - $10.99
+Pepperoni from PizzaHut - $10.99
+ChickenSub from Subway - $7.99
+
+Total Bill: $76.42
+===
+
+Name: Parth_Chakerwarti
+Address: 431 Hostel
+Phone: 7056244709
+
+Order Summary:
+Fries from Wingstop - $2.99
+Fries from Wingstop - $2.99
+
+Total Bill: $11.78
+===
+
